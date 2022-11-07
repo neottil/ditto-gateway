@@ -1,0 +1,1 @@
+FROM eclipse/ditto-gateway
